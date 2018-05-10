@@ -1,3 +1,5 @@
+#Image viewer for Semester project spring 2017
+
 Runs image slideshow on Raspberry Pi as part of a smart picture frame solution. Image categories to be displayed chosen by scanning RFid cards on sensor connected to arduino which sends input to the raspberry Pi. 
 
 Semester project for INF1510 at UiO Spring 2017. 
